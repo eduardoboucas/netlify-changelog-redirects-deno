@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/eduardoboucas/netlify-changelog-redirects/compare/v1.1.0...v1.2.0) (2022-11-06)
+
+
+### Features
+
+* add error handling ([ef28b08](https://github.com/eduardoboucas/netlify-changelog-redirects/commit/ef28b087e9fedcb83928f9140a6971234cfbca64))
+
 ## [1.1.0](https://github.com/eduardoboucas/netlify-changelog-redirects/compare/v1.0.0...v1.1.0) (2022-11-06)
 
 
