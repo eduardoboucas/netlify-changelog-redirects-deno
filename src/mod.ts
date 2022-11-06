@@ -37,5 +37,5 @@ export function getRedirects(changelog: string, baseURL: string) {
     (version) => `/${version}/*  https://v${version}--${url.host}/:splat  200`
   );
 
-  return redirects.join("\n");
+  return redirects;
 }
